@@ -12,7 +12,7 @@
 | 이름 | GitHub |
 | ------ | ------ |
 | 박영규 | [@toctoce](https://github.com/toctoce) |
-| 박다혜 | [@dhyepark]((https://github.com/dhyepark) |
+| 박다혜 | [@dhyepark](https://github.com/dhyepark) |
 
 ## 💻 타임 테이블
 
