@@ -26,21 +26,6 @@
 # 학습 주제
 학습주제는 gyoogle을 참고했습니다.
 
-## 📌 개발상식
-
-- 클린코드 & 리팩토링 & 시큐어코딩
-- 애자일(Agile) 정리
-- TDD(Test Driven Development)
-- 객체 지향 프로그래밍
-- 함수형 프로그래밍Ⅰ
-- 함수형 프로그래밍Ⅱ
-- 데브옵스(DevOps)
-- 서드 파티(3rd party)란?
-- Git 과 GitHub 에 대해서
-- 정규식
-- Generic
-- final
-
 ## 📌 자료구조
 
 - Array & ArrayList & LinkedList
@@ -103,25 +88,6 @@
 - 옵저버 패턴
 - 스트레티지 패턴
 
-## 📌 Algorithm
-
-- 거품 정렬(Bubble Sort)
-- 선택 정렬(Selection Sort)
-- 삽입 정렬(Insertion Sort)
-- 퀵 정렬(Quick Sort)
-- 합병 정렬(Merge Sort)
-- 힙 정렬(Heap Sort)
-- 기수 정렬(Radix Sort)
-- 계수 정렬(Count Sort)
-- 비트마스크(BitMask)
-- 이분 탐색(Binary Search)
-- 세그먼트 트리
-- 해시(Hash)
-- DFS & BFS
-- 최장 증가 수열(LIS)
-- 최소 공통 조상(LCA)
-- 동적 계획법(Dynamic Programming)
-
 ## 📌 Language
 
 - Java
@@ -179,3 +145,37 @@
 - Vue.js vs React.js
 - 네이티브 앱 & 웹 앱 & 하이브리드 앱
 - PWA(Progressive Web App)
+
+## 📌 Algorithm
+
+- 거품 정렬(Bubble Sort)
+- 선택 정렬(Selection Sort)
+- 삽입 정렬(Insertion Sort)
+- 퀵 정렬(Quick Sort)
+- 합병 정렬(Merge Sort)
+- 힙 정렬(Heap Sort)
+- 기수 정렬(Radix Sort)
+- 계수 정렬(Count Sort)
+- 비트마스크(BitMask)
+- 이분 탐색(Binary Search)
+- 세그먼트 트리
+- 해시(Hash)
+- DFS & BFS
+- 최장 증가 수열(LIS)
+- 최소 공통 조상(LCA)
+- 동적 계획법(Dynamic Programming)
+
+## 📌 개발상식
+
+- 클린코드 & 리팩토링 & 시큐어코딩
+- 애자일(Agile) 정리
+- TDD(Test Driven Development)
+- 객체 지향 프로그래밍
+- 함수형 프로그래밍Ⅰ
+- 함수형 프로그래밍Ⅱ
+- 데브옵스(DevOps)
+- 서드 파티(3rd party)란?
+- Git 과 GitHub 에 대해서
+- 정규식
+- Generic
+- final
